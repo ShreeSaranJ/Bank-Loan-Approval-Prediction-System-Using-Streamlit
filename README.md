@@ -3,6 +3,8 @@
 ## Overview
 This project predicts loan eligibility using machine learning algorithms. It features a secure registration and login system for users and bank staff, ensuring efficient and accessible management of loan applications. The application supports multiple languages and provides an intuitive user interface.
 
+---
+
 ## Key Features
 
 1. **Loan Eligibility Prediction**
@@ -24,6 +26,8 @@ This project predicts loan eligibility using machine learning algorithms. It fea
 6. **User-Friendly Interface**
    - Simple and intuitive UI for a seamless user experience.
 
+---
+
 ## Technologies Used
 
 1. **Programming Language**: Python
@@ -34,6 +38,8 @@ This project predicts loan eligibility using machine learning algorithms. It fea
    - Matplotlib, Seaborn for data visualization
 3. **Database**: SQLite/MySQL for storing user information and records
 4. **Tools**: Git, GitHub, Jupyter Notebook
+
+---
 
 ## How It Works
 
@@ -49,6 +55,8 @@ This project predicts loan eligibility using machine learning algorithms. It fea
 4. **User Access**
    - Registered users can securely log in to view their loan prediction results.
    - Bank staff can log in to review and manage user data for loan processing.
+
+---
 
 ## Setup Instructions
 
@@ -77,6 +85,8 @@ streamlit run \Bank_Loan_Prediction.py --server.port 8080
 [http://localhost:8080]
 ```
 
+---
+
 ## Project Workflow
 
 1. **Data Preprocessing**
@@ -91,16 +101,42 @@ streamlit run \Bank_Loan_Prediction.py --server.port 8080
 4. **Testing and Optimization**
    - Tested the model for accuracy and optimized its performance.
 
+---
+
 ## Future Enhancements
 
 1. Integration of advanced models (e.g., XGBoost, Neural Networks).
 2. Deployment on cloud platforms (e.g., AWS, Heroku).
 3. Enhanced user dashboard with loan history and analytics.
 
+---
+
 ## Contribution
 Contributions are welcome! Please create a pull request with detailed information about the changes.
 
-## Interface
+---
 
+## Contact
+For any queries or suggestions, feel free to contact:
+
+- **Name**: Pravinkumar A
+- **Email**: [pravinkumar22005@gmail.com](mailto:pravinkumar22005@gmail.com)
+  
+---
+## Project Interface
+
+<img width="1440" alt="Screenshot 2024-12-18 at 7 24 32 PM" src="https://github.com/user-attachments/assets/95e4bb61-11bc-4fdd-aece-251f9370f584" />
 
 ---
+## Languages Incorporated
+
+<img width="1440" alt="Screenshot 2024-12-18 at 7 24 39 PM" src="https://github.com/user-attachments/assets/cc5469f2-8b4c-42ab-a3ed-62c26dac605a" />
+
+---
+## Bank Staff Access to Uploaded User/Customer Files
+
+![947E36A9-4924-42A5-8211-F21A03F16764_4_5005_c](https://github.com/user-attachments/assets/66f7883d-d07d-4a0a-b1de-fe81ab5d69e4)
+
+
+
+
