@@ -55,27 +55,27 @@ This project predicts loan eligibility using machine learning algorithms. It fea
 ### Prerequisites
 - Python 3.x installed
 - Required Python libraries (install via pip):
-bash
+```bash
 pip install flask pandas numpy scikit-learn matplotlib seaborn
-
+```
 
 ### Steps to Run the Project
 
 1. Clone this repository:
-'''bash
+```bash
 git clone https://github.com/yourusername/bank-loan-prediction.git
 cd bank-loan-prediction
-'''
+```
 
 2. Run the project:
-'''bash
-python app.py
-'''
+```bash
+streamlit run \Bank_Loan_Prediction.py --server.port 8080
+```
 
 3. Access the application in your browser at:
-'''
-http://127.0.0.1:5000/
-'''
+```bash
+[http://localhost:8080]
+```
 
 ## Project Workflow
 
