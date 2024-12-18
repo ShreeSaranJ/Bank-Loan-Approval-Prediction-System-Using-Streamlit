@@ -62,19 +62,20 @@ pip install flask pandas numpy scikit-learn matplotlib seaborn
 ### Steps to Run the Project
 
 1. Clone this repository:
-bash
+'''bash
 git clone https://github.com/yourusername/bank-loan-prediction.git
 cd bank-loan-prediction
-
+'''
 
 2. Run the project:
-bash
+'''bash
 python app.py
-
+'''
 
 3. Access the application in your browser at:
-
+'''
 http://127.0.0.1:5000/
+'''
 
 ## Project Workflow
 
